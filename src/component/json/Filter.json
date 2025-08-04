@@ -1,0 +1,39 @@
+
+
+
+{
+  "filters": [
+    {
+      "id": "Tous",
+      "label": "Tous"
+      },
+    {
+      "id": "Droit du travail",
+      "label": "Droit du travail"  
+    },
+    {
+      "id": "salaires",
+      "label": "Salaires"
+    },
+    {
+      "id": "Grève",
+      "label": "Grève"
+    },
+    {
+      "id": "Syndicat",
+      "label": "Syndicat"
+    },
+    {
+      "id": "Condition de Travail",
+      "label": "Conditions de Travail"
+    },
+    {
+      "id": "recrutement",
+      "label": "Recrutement"
+    },
+    {
+      "id": "Formation",
+      "label": "Formation"
+    }
+  ]
+}

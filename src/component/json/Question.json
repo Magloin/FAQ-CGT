@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {
+      "id": "Condition de travail",
+        "name": "Secutity",
+            "questions": [
+             {
+                "id": "q1",
+                "question": "Qu'est ce que le droit de retrait ?",
+                "answer": "Le droit de retrait est une disposition permettant à l'agent qui a un motif raisonnable de penser que la situation de travail à laquelle il est confronté présente un danger grave et imminent pour sa vie ou sa santé, ou qui constate une défectuosité dans les systèmes de protection, de se retirer de son poste de travail ... .",
+                "keywords": ["Droit du travail", "Condition de Travail"],
+                "ClicNb": 0
+            }
+        ]
+    }
+  ]
+}
