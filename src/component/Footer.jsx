@@ -10,13 +10,13 @@ function Footer () {
                     Contact
                 </h3>
                 <h4 className="font-sans  text-center text-xs sm:text-base md:text-base lg:text-lg xl:text-xl sm:font-bold pt-5 md:pt-7 lg:pt-8 xl:pt-5 ">
-                    <a href="mailto:aesh@cgteduc.fr?subject=Prise de contact" className= " underline underline-offset-2 decoration-2 text-blue-400              hover:decoration-cgt-yellow hover:text-cgt-yellow visited:text-purple-900 lg:text-xl  transition-discrete duration-700 ease-in-out ">
+                    <a href="mailto:aesh@cgteduc.fr?subject=Prise de contact" className= " underline underline-offset-2 decoration-2 text-blue-400 hover:decoration-cgt-yellow hover:text-cgt-yellow visited:text-purple-900 lg:text-xl transition-discrete duration-700 ease-in-out ">
                         <span className=" text-xs md:text-lg lg:text-xl xl:text-2xl  transition duration-500 ease-in-out whitespace-nowrap  ">Prendre contact</span>
                     </a>
                 </h4> 
             </div>
 
-            {/* reseau sociaux */}
+            {/* réseaux sociaux */}
 
              <div className="px-2 sm:px-8 w-1/3" >
                     <h3 className="underline font-serif text-cgt-yellow text-shadow-lg/30 text-shadow-black text-center text-base sm:text-xl sm:font-bold sm:uppercase md:text-base md:leading-4.5 lg:text-xl xl:text-2xl md:pt-3 lg:pt-3.5 pt-2" >Réseau</h3> 
